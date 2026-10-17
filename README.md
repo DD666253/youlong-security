@@ -5,7 +5,7 @@
 
 <a href="#-这是什么"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1200&amp;color=3DDC84&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=64&amp;lines=%E4%B8%80%E4%B8%AA%E5%BC%80%E6%BA%90%E4%B8%94%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9%E7%9A%84%20Android%20%E5%AE%89%E5%85%A8%E9%98%B2%E6%8A%A4%E5%B7%A5%E5%85%B7%0A%E5%85%8D%20Root%20%E7%89%B9%E6%9D%83%20%C2%B7%20%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%20%C2%B7%20%E5%BA%94%E7%94%A8%E9%A3%8E%E9%99%A9%E6%B2%BB%E7%90%86%20%C2%B7%20%E7%B4%A7%E6%80%A5%E9%80%83%E7%94%9F%0AJava%20%2B%20Kotlin%20%2B%20NDK%2FC%2B%2B%20%C2%B7%20Stellar%20%E5%86%85%E6%A0%B8%E6%BA%90%E7%A0%81%E7%BA%A7%E5%86%85%E7%BD%AE" alt="游龙安全护盾 — typing"/></a>
 
-# 游龙安全护盾（YouLong Security Shield）
+# X安全护盾（X Security Shield）
 
 ### 免 Root 的 Android 安全防护 / 广告拦截 / 应用风险治理工具
 
